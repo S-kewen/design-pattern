@@ -1,9 +1,12 @@
 # design-pattern
 ### 設計模式是什麼
 * 設計模式（design pattern）是對軟體設計中普遍存在（反覆出現）的各種問題，所提出的解決方案。
-[![](https://upload.cc/i1/2021/02/07/XQsCq8.jpg)](https://upload.cc/i1/2021/02/07/XQsCq8.jpg)
 ### 綱要
-[《物件導向軟體工程》](https://webapp.yuntech.edu.tw/WebNewCAS/Course/Plan/Query.aspx?&109&1&3129 "《物件導向軟體工程》")該課程的學習心路歷程
+《物件導向軟體工程》該課程的學習心路歷程
+### 學習資料
+菜鳥教程 https://www.runoob.com/design-pattern/design-pattern-tutorial.html
+尚硅谷 https://www.bilibili.com/video/BV1G4411c7N4
+雲端 https://drive.google.com/drive/folders/0B43NiF-IV-dQUDN0OWk4NHFfcEk?fbclid=IwAR1lIB0XSWB3Rr1zqrXlzb-9uXwSTjgjwnH-t7WnUI-RrCRkhHLcJuJbdQQ
 ### 設計模式分為哪幾種？
 * 結構型模式：
 Composite、Decorator、Bridge、Flyweight、Adapter、Proxy、Facade
@@ -67,3 +70,7 @@ SimpleFactory、FactoryMethod、AbstractFactory、Singleton、Builder、Prototyp
 創建型模式，用原型實例指定創建對象的種類，並且通過拷貝這些原型創建新的對象<br>
 * Proxy-代理模式<br>
  結構型模式，為其他對象提供一種代理以控制對這個對象的訪問<br>
+### Contact Author
+石桂華(Skwen) https://i.iskwen.com
+# END
+* Thank you for watching.
