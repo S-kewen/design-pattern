@@ -2,11 +2,14 @@
 ### 設計模式是什麼
 * 設計模式（design pattern）是對軟體設計中普遍存在（反覆出現）的各種問題，所提出的解決方案。
 ### 綱要
-《物件導向軟體工程》該課程的學習心路歷程
+《物件導向軟體工程》課程的學習心路歷程以及筆記
 ### 學習資料
 菜鳥教程 https://www.runoob.com/design-pattern/design-pattern-tutorial.html
+<br>
 尚硅谷 https://www.bilibili.com/video/BV1G4411c7N4
+<br>
 雲端 https://drive.google.com/drive/folders/0B43NiF-IV-dQUDN0OWk4NHFfcEk?fbclid=IwAR1lIB0XSWB3Rr1zqrXlzb-9uXwSTjgjwnH-t7WnUI-RrCRkhHLcJuJbdQQ
+<br>
 ### 設計模式分為哪幾種？
 * 結構型模式：
 Composite、Decorator、Bridge、Flyweight、Adapter、Proxy、Facade
