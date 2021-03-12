@@ -7,7 +7,7 @@
 * 《Design Patterns: Elements of Reusable Object-Oriented Software》
 * 《Object-Oriented Software Engineering》
 ### 課程綱要
-[file-pdf](https://skwen.s3-ap-northeast-1.amazonaws.com/10913129.pdf)<br>
+[file-pdf](https://static.iskwen.com/skwen/file/10913129.pdf)<br>
 ### 學習資料
 菜鳥教程 https://www.runoob.com/design-pattern/design-pattern-tutorial.html
 <br>
@@ -79,6 +79,6 @@ SimpleFactory、FactoryMethod、AbstractFactory、Singleton、Builder、Prototyp
 * Proxy-代理模式<br>
  結構型模式，為其他對象提供一種代理以控制對這個對象的訪問<br>
 ### Contact Author
-石桂華(Skwen) https://i.iskwen.com
+石桂華(Skwen) https://blog.iskwen.com
 # END
 * Thank you for watching.
